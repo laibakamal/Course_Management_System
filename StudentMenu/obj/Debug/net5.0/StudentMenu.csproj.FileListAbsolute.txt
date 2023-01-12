@@ -1,0 +1,15 @@
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\bin\Debug\net5.0\StudentMenu.deps.json
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\bin\Debug\net5.0\StudentMenu.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\bin\Debug\net5.0\ref\StudentMenu.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\bin\Debug\net5.0\StudentMenu.pdb
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\bin\Debug\net5.0\Students.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\bin\Debug\net5.0\Students.pdb
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\obj\Debug\net5.0\StudentMenu.csprojAssemblyReference.cache
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\obj\Debug\net5.0\StudentMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\obj\Debug\net5.0\StudentMenu.AssemblyInfoInputs.cache
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\obj\Debug\net5.0\StudentMenu.AssemblyInfo.cs
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\obj\Debug\net5.0\StudentMenu.csproj.CoreCompileInputs.cache
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\obj\Debug\net5.0\StudentMenu.csproj.CopyComplete
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\obj\Debug\net5.0\StudentMenu.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\obj\Debug\net5.0\ref\StudentMenu.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\StudentMenu\obj\Debug\net5.0\StudentMenu.pdb

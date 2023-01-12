@@ -1,0 +1,12 @@
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Courses\bin\Debug\net5.0\Courses.deps.json
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Courses\bin\Debug\net5.0\Courses.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Courses\bin\Debug\net5.0\ref\Courses.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Courses\bin\Debug\net5.0\Courses.pdb
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Courses\obj\Debug\net5.0\Courses.csprojAssemblyReference.cache
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Courses\obj\Debug\net5.0\Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Courses\obj\Debug\net5.0\Courses.AssemblyInfoInputs.cache
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Courses\obj\Debug\net5.0\Courses.AssemblyInfo.cs
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Courses\obj\Debug\net5.0\Courses.csproj.CoreCompileInputs.cache
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Courses\obj\Debug\net5.0\Courses.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Courses\obj\Debug\net5.0\ref\Courses.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Courses\obj\Debug\net5.0\Courses.pdb

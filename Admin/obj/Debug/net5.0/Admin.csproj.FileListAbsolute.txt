@@ -1,0 +1,17 @@
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\bin\Debug\net5.0\Admin.deps.json
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\bin\Debug\net5.0\Admin.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\bin\Debug\net5.0\ref\Admin.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\bin\Debug\net5.0\Admin.pdb
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\obj\Debug\net5.0\Admin.csprojAssemblyReference.cache
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\obj\Debug\net5.0\Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\obj\Debug\net5.0\Admin.AssemblyInfoInputs.cache
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\obj\Debug\net5.0\Admin.AssemblyInfo.cs
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\obj\Debug\net5.0\Admin.csproj.CoreCompileInputs.cache
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\obj\Debug\net5.0\Admin.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\obj\Debug\net5.0\ref\Admin.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\obj\Debug\net5.0\Admin.pdb
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\bin\Debug\net5.0\Students.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\bin\Debug\net5.0\Teachers.dll
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\bin\Debug\net5.0\Students.pdb
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\bin\Debug\net5.0\Teachers.pdb
+C:\Users\92308\Desktop\5\WE\ASSIGNMENTS\2\Admin\obj\Debug\net5.0\Admin.csproj.CopyComplete
